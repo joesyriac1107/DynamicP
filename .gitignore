@@ -1,0 +1,8 @@
+*.class*
+.metadata/*
+/.metadata/
+*/.idea/*
+*/META-INF/*
+*/target/*/.metadata/
+*/.project
+*/.settings
